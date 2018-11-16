@@ -1,8 +1,5 @@
 // Player_Student.js
-// Computer Science 3200 - Assignment 3
-// Author(s):
-// Sajid Kamadia (201558798)
-// Sylvia Unimna (201619848)
+// Author(s): Sajid Kamadia (201558798)
 
 
 Player_Student = function(config) {
