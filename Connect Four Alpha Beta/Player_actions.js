@@ -1,5 +1,5 @@
 // Alpha Beta heuristic for Connect Four
-//Author: Sajid Kamadia
+//Author: Sajid Kamadia, Sylvia Unimna
 
 
 
